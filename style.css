@@ -121,6 +121,12 @@ li {
   color: #575656;
 }
 
+.vigencias img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 /*......recoleccion........*/
 .table-box {
   box-shadow: 5px 5px 15px 5px #acacac;
@@ -128,6 +134,7 @@ li {
   margin-left: auto;
   margin-right: auto;
 }
+
 
 .blueTable {
   border: 3px outset #1C6EA4;
